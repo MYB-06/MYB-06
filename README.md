@@ -12,7 +12,7 @@ I’m an indie game developer. Here, I share both small game projects and my wor
 
 ---
 
-##💻 Coding in progress…
+## 💻 Coding in progress…
 ☕ Fuel: Coffee + More coffee
 ⏰ Hours: Midnight to sunrise 🌙
 ⚡ Debugging: Always
