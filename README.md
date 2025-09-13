@@ -37,7 +37,7 @@ A 3D platformer where a farmer escapes from a giant chick through parkour challe
 
 ## 📫 Contact
 - ✉️ [Email](mailto:06myb06@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-baytok-bb39a037a)  
+- 💼 [LinkedIn](www.linkedin.com/in/yusuf-b-bb39a037a)  
 
 ---
 
