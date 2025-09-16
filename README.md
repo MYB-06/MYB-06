@@ -23,7 +23,12 @@ I’m an indie game developer. Here, I share both small game projects and my wor
 ## 🚀 Featured Project
 
 ### 🐥 Chick-Chase  
-A 3D platformer where a farmer escapes from a giant chick through parkour challenges and puzzle-solving. 
+
+A 3D platformer where a farmer escapes from a giant chick through parkour challenges and puzzle-solving.
+
+### 🦊 Swift Fox Runner
+
+This is a 3D endless runner game prototype. Our fox runs through the forest, jumping over obstacles.
 
 [🔗 View Repository](https://github.com/MYB-06/ChickChase-Devlog)  
 
