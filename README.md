@@ -35,7 +35,7 @@ This is a 3D endless runner game prototype. Our fox runs through the forest, jum
 
 ## 📊 GitHub Stats
 ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=MYB-06&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYB-06&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYB-06&layout=compact&theme=radical&v=2)
 
 ---
 
